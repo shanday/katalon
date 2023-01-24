@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Halaman Utama___2TWNE5G9</name>
+   <tag></tag>
+   <elementGuidId>1f3ed7fb-a96e-4ad1-ab33-791d2bd4232a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.__2TWNE5G9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca793dbc-6bb9-4114-bd64-fe7a4cc1300b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>__2TWNE5G9</value>
+      <webElementGuid>694b1ef6-1881-49b7-bccd-181ef25afe7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;__2TiPnW7L&quot;]/div[@class=&quot;xQPWLz3L&quot;]/div[@class=&quot;__2TWNE5G9&quot;]</value>
+      <webElementGuid>875fcc7b-b0a7-496d-886a-2f688348df8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div/div</value>
+      <webElementGuid>6935349c-b764-4adf-874b-eb82cf038aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halaman Utama'])[1]/preceding::div[1]</value>
+      <webElementGuid>ab5cb897-6766-4417-bd33-f4c1a24ca3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merchant'])[1]/preceding::div[2]</value>
+      <webElementGuid>7ac19a89-fc23-4c93-9573-fd1b3a3ac389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>24f2e183-2b78-4534-9c6a-2d53e2582356</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

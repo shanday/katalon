@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Merchant</name>
+   <tag></tag>
+   <elementGuidId>538d41d5-cc8e-4f22-a145-e262ded0afb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-dropdown-trigger.bf6kz4Dn.ant-dropdown-open > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div/div[2]/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>624f2588-f91b-487c-9510-39f74c6bb140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Merchant</value>
+      <webElementGuid>60b855f8-063d-4baf-9713-b37a141bbc25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;__2TiPnW7L&quot;]/div[@class=&quot;xQPWLz3L&quot;]/div[@class=&quot;Zwl3czSd&quot;]/div[@class=&quot;_zmV_2_Q&quot;]/div[@class=&quot;ant-dropdown-trigger bf6kz4Dn ant-dropdown-open&quot;]/span[1]</value>
+      <webElementGuid>e6e80130-0018-4d05-9444-ae9baaca9efa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div/div[2]/div[2]/div/span</value>
+      <webElementGuid>199c47d1-12b7-453b-850c-d06597e32628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halaman Utama'])[1]/following::span[1]</value>
+      <webElementGuid>d27d9ad5-fbd8-402d-885e-3d8a09a1fac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Merchant'])[1]/preceding::span[1]</value>
+      <webElementGuid>e343aba0-8ff2-4f29-be58-bbc790ec826b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ShopeePartner'])[1]/preceding::span[3]</value>
+      <webElementGuid>15f0811c-5048-41e9-aa04-5f5ec85b6054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Merchant']/parent::*</value>
+      <webElementGuid>b2ef40c9-48ae-4a8e-b172-2148f3d5a9c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div[2]/div/span</value>
+      <webElementGuid>65a35594-d973-4d04-b4e0-2d98fe65f607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Merchant' or . = 'Merchant')]</value>
+      <webElementGuid>18af8e7b-c3dc-4e86-9faa-de009f6140b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

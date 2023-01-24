@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_FAQ</name>
+   <tag></tag>
+   <elementGuidId>47243c04-1ff8-4395-a544-7d0550d2797a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-dropdown-trigger.bf6kz4Dn.ant-dropdown-open > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div/div[2]/div[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2de7ed3c-ab10-49bf-8e47-ae9e44dc32cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAQ</value>
+      <webElementGuid>6bf02530-12c6-4437-9c07-100465ff0f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;__2TiPnW7L&quot;]/div[@class=&quot;xQPWLz3L&quot;]/div[@class=&quot;Zwl3czSd&quot;]/div[@class=&quot;_zmV_2_Q&quot;]/div[@class=&quot;ant-dropdown-trigger bf6kz4Dn ant-dropdown-open&quot;]/span[1]</value>
+      <webElementGuid>7ad3df50-f47c-4fa4-9d0b-b2526a023221</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div/div[2]/div[4]/div/span</value>
+      <webElementGuid>55bcd879-8d7a-42d4-8448-07fa3a672f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra Pengemudi'])[1]/following::span[1]</value>
+      <webElementGuid>27b8adfb-4b5f-4196-b128-5bdd8411fad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ShopeePartner'])[1]/following::span[2]</value>
+      <webElementGuid>f6ad130b-d7c6-4e46-bf7b-0116b5148dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ Pelanggan'])[1]/preceding::span[1]</value>
+      <webElementGuid>ff6a7854-dbf3-4ff0-aad9-765239c39e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ Merchant'])[1]/preceding::span[3]</value>
+      <webElementGuid>b3f27aaa-821f-47a8-8f2e-c9145016e6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FAQ']/parent::*</value>
+      <webElementGuid>7eaff3c7-0940-4015-9d9c-a2f9eba6e5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span</value>
+      <webElementGuid>16e968fc-d864-4bd5-a2c7-49d7edf795eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'FAQ' or . = 'FAQ')]</value>
+      <webElementGuid>25fdab0a-94ae-4ca2-b08f-45e8b189b3c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mitra Pengemudi</name>
+   <tag></tag>
+   <elementGuidId>2be9b264-647b-4163-acd2-cbdeed693f2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div/div/div[2]/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>99e05c3f-15ab-4931-a374-77bbe86a3e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mitra Pengemudi</value>
+      <webElementGuid>0d0e94e7-5c49-486a-90df-ab83839e16d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;__2TiPnW7L&quot;]/div[@class=&quot;xQPWLz3L&quot;]/div[@class=&quot;Zwl3czSd&quot;]/div[@class=&quot;_zmV_2_Q&quot;]/span[1]</value>
+      <webElementGuid>7e76917e-5f5d-4660-b76d-261185cd4cb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div/div/div[2]/div[3]/span</value>
+      <webElementGuid>82b7f8c9-94d3-4f6e-a65b-706e891286c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ShopeePartner'])[1]/following::span[1]</value>
+      <webElementGuid>7cc80507-85c8-490d-9924-298c99434181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Merchant'])[1]/following::span[3]</value>
+      <webElementGuid>88050a2f-b066-479e-9366-21d6f2f4ae85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::span[1]</value>
+      <webElementGuid>389fc9a1-c58b-4d96-9e3e-c3bcb4b88b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabung Bersama Kami'])[1]/preceding::span[2]</value>
+      <webElementGuid>fbefc34c-52e8-4d0e-9451-2c00cf1cc178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mitra Pengemudi']/parent::*</value>
+      <webElementGuid>365dcecd-beed-467f-ac58-1b64b701475b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>1b8cf9ea-f33d-4ad6-a9cd-3c0a155994e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mitra Pengemudi' or . = 'Mitra Pengemudi')]</value>
+      <webElementGuid>1f274d5f-358e-43cd-94f7-6e58593fb09b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
